@@ -8,4 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [Core Building Protection](https://corebp.co.nz)
 - 📫 How to reach me: dev@esjc.nz
 
-[![elychr's github stats](https://github-readme-stats.vercel.app/api?username=elychr)](https://github.com/elychr/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elychr&show_icons=true&theme=cobalt" />  
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elychr" />
+</a>
