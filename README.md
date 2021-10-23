@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=elychr&color=brightgreen) <img alt="GitHub followers" src="https://img.shields.io/github/followers/elychr?style=social">
 
-- 🔭 I’m currently working at [Core Building Protection](https://corebp.co.nz)
+- 🔭 I’m currently working at [ProcessPro](https://processpro.io)
 - 📫 How to reach me: dev@esjc.nz
 
 ## 🏆 GitHub Trophies
